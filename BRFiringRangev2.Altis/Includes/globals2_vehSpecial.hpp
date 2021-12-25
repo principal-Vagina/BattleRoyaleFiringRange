@@ -806,7 +806,7 @@ BR_DamageHandler =
 	];
 
 	G_CAR_OPTIONS = [
-		"beetle_bleufonce",
+		"br_beetle_hippie",
 		"C_Hatchback_01_F",
 		"C_Hatchback_01_sport_F",
 		"C_Offroad_01_F",

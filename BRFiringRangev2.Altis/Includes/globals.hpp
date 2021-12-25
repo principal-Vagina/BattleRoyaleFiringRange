@@ -1046,9 +1046,9 @@ if (isNil "BRFR_Globals_defined") then
 
 	G_CAR_OPTIONS = [
 	"C_Van_01_box_F",
-	"BAF_Offroad_D",
+	"SUV_01_base_orange_F",
 	"C_Offroad_01_repair_F",
-	"beetle_bleufonce",
+	"br_beetle_hippie",
 	"C_Van_01_transport_F"
 		// "C_Hatchback_01_F",
 		// "C_Hatchback_01_sport_F",
